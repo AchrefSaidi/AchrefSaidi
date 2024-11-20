@@ -1,5 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Achref</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C3D33&background=80843600&width=525&lines=a+passionate+software+engineer+from+tunisia;Cloud+and+DevOps+enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 - 🔭 I’m currently working on **Multiple projects**
 
