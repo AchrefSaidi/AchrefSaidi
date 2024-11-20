@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **achref.saidi0108@gmail.com**
 
-- 📄 Know about my experiences [AchrefSaidi-resume.pdf](achrefsaidi-resume)
+- 📄 Know about my experiences [AchrefSaidi-resume.pdf](AchrefSaidi-resume.pdf)
 
 - ⚡ Fun fact **I really enjoy escape games and puzzles**
 
