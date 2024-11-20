@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Achref</h1>
-<h3 align="center">A passionate Software engineer from Tunisia</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9C3D33&background=80843600&width=435&lines=a+passionate+software+engineer+from+tunisia)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Multiple projects**
 
